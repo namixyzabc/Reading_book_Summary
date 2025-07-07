@@ -1,2 +1,2 @@
-●進捗管理 
+●進捗管理  
 https://zenn.dev/coconala/articles/progress-report-refactoring
